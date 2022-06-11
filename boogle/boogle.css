@@ -1,0 +1,38 @@
+html{
+    font-family: sans-serif;
+    font-weight: bold;
+    background: purple;
+}
+input{
+    width: 40%;
+    background-color: white;
+}
+button{
+    margin-right: 40px;
+    background-color: aquamarine;
+}
+h1{
+    color: chartreuse;
+}
+footer{
+    color: chartreuse;
+}
+nav{
+    width: 30%;
+    display: flex;
+    text-align: left;
+}
+#somos{
+    color:gold;
+    margin: 10px;
+}
+#somos:hover{
+    color: blue;
+}
+#sere{
+    color:gold;
+    margin: 1000px;
+}
+#sere:hover{
+    color: blue;
+}

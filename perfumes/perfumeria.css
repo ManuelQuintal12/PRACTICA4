@@ -1,0 +1,23 @@
+html{
+    background:#5a0a5a;
+    font-family: sans-serif;
+}
+.foto{
+    width: 150px;
+    height: 200px;
+    margin: 28px 28px 5px 28px;
+}
+.ubicacion{
+    display: grid;
+    float:left;
+    
+}
+h1{
+    font-size: 40px;
+    color: #ffc003;
+}
+p{
+    color: aqua;
+}
+
+/* tarea hecha por manuel quintal 3-B*/ 
